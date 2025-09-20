@@ -1,5 +1,7 @@
 # 📊 Statistics Calculator
 
+This project was built to practice and demonstrate JavaScript skills learned through freeCodeCamp.
+
 A simple web-based statistics calculator that computes **mean, median, mode, range, variance, and standard deviation** from a list of numbers.  
 
 🔗 **Live Demo:** [Statistics Calculator](https://sadeghdehyadgari.github.io/statistics-calculator/)
